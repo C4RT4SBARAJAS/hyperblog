@@ -5,3 +5,5 @@ Tengo 22 años de edad y nací en México
 Al día de hoy ya he cometido algúnos errores, aprendí a borrar un repositorio en git
 
 Cada vez refuerzo más lo aprendido
+
+Aprovecho para decirles que me encuentro estudiando la carrera de Ing. Forestal
