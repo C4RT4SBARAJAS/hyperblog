@@ -3,3 +3,5 @@ Esta es la historai de Heriberto Cartas
 Tengo 22 años de edad y nací en México
 
 Al día de hoy ya he cometido algúnos errores, aprendí a borrar un repositorio en git
+
+Cada vez refuerzo más lo aprendido
